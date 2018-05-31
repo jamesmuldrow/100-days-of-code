@@ -11,3 +11,9 @@
 Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today we focused on setting up a ToDo Application that we will be building out in this module. Section 19 Part 1. https://www.udemy.com/ios-11-app-development-bootcamp
 
 **Thoughts** Fairly Simple setup
+
+### Day 3: May 30, Wednesday
+
+Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today we focused on adding items to list. Section 19. https://www.udemy.com/ios-11-app-development-bootcamp 
+
+**Thoughts** Found the info presented was well thought out and helpful
