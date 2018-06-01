@@ -13,3 +13,5 @@ Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today w
 ### R1D3
 Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today we focused on adding items to list. Section 19. https://www.udemy.com/ios-11-app-development-bootcamp  
 
+### R1D4
+Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today we focused on preparing our envirnmont for follow-on lessons in data persistance. Section 19. https://www.udemy.com/ios-11-app-development-bootcamp

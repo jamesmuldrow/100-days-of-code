@@ -17,3 +17,11 @@ Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today w
 Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today we focused on adding items to list. Section 19. https://www.udemy.com/ios-11-app-development-bootcamp 
 
 **Thoughts** Found the info presented was well thought out and helpful
+
+### Day 4: May 31, Thursday
+
+Today I continued the labs associated with Angela Yu's Udemy IOS Course. Today we focused on preparing our envirnmont for follow-on lessons in data persistance. Section 19. https://www.udemy.com/ios-11-app-development-bootcamp
+
+**Thoughts** Found the info presented was well thought out and helpful
+
+
